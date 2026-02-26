@@ -69,13 +69,15 @@ This project demonstrates the ability to:
 	•	Deliver clear, decision-oriented insights
 
 📎 Repository Structure
+
 london-fire-brigade-analysis/
-│
-├── 01_data_cleaning.ipynb
-├── 02_dimensional_modeling.ipynb
-├── 03_kpi_analysis.ipynb
-├── screenshots/
-└── README.md
+01_data_cleaning.ipynb
+02_dimensional_modeling.ipynb
+03_kpi_analysis.ipynb
+screenshots/
+README.md
+
+Dataset not included due to size limitations.
 
 👤 Author
 
