@@ -71,11 +71,14 @@ This project demonstrates the ability to:
 📎 Repository Structure
 
 london-fire-brigade-analysis/
-01_data_cleaning.ipynb
-02_dimensional_modeling.ipynb
-03_kpi_analysis.ipynb
-screenshots/
-README.md
+│
+├── 01_data_cleaning_mobilisation.ipynb
+├── 02_data_preparation_pipeline.ipynb
+├── 03_exploratory_data_analysis.ipynb
+├── 04_operational_kpi_analysis.ipynb
+├── 05_cost_analysis.ipynb
+├── screenshots/
+└── README.md
 
 Dataset not included due to size limitations.
 
