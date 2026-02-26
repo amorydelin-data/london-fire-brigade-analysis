@@ -80,6 +80,23 @@ london-fire-brigade-analysis/
 ├── screenshots/
 └── README.md
 
+## 📊 Dashboard & Data Model Preview
+
+### ⭐ Dimensional Data Model (Star Schema)
+![Star Schema](screenshots/data_model_star_schema.png)
+
+### 📐 Centralized DAX Measure Table
+![Measure Table](screenshots/measure_table_dax.png)
+
+### 🚒 Operational Performance Dashboard
+![Operational](screenshots/dashboard_operational_performance.png)
+
+### 🗺️ Geographical Analysis
+![Geographical](screenshots/dashboard_geographical_analysis.png)
+
+### 📈 Incident Typology & Response Time
+![Typology](screenshots/dashboard_incident_typology.png)
+
 Dataset not included due to size limitations.
 
 👤 Author
